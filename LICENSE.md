@@ -16,4 +16,3 @@ Este trabalho está licenciado sob a **Creative Commons Atribuição-NãoComerci
 
 ---
 
-![Licença CC BY-NC](license.png)
